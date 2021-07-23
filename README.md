@@ -1,2 +1,2 @@
 # PCP-analysis-tutorial
-A tutorial on Principal component analysis I conducted for a friend.
+A tutorial on PCP I conducted for a friend.
